@@ -9,3 +9,4 @@ Barcode system(Admin,Editor,Cassa,Api)
 
 https://github.com/NihadAxund/Barcode_System/assets/113647098/6633e7b6-7274-487e-867f-b7568b08d513
 
+Gmail: nihataxundzade06@gmail.com
