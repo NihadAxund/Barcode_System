@@ -10,5 +10,5 @@ Barcode system(Admin,Editor,Cassa,Api)
 
 
 https://github.com/NihadAxund/Barcode_System/assets/113647098/6633e7b6-7274-487e-867f-b7568b08d513
-
+https://github-production-user-asset-6210df.s3.amazonaws.com/113647098/273476005-2f3b6e63-09b4-4d8a-9bed-79bbb043e8f9.mp4
 Gmail: nihataxundzade06@gmail.com
