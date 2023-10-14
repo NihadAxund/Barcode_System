@@ -1,4 +1,8 @@
 # Barcode_System
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+wpf,Asp.net Api,Sql,Swagger,Speeder tools,Dapper,EnitiyFreamWork,Multi Threading,P-PDF,Barcode Reader,Barcode Writer,JWT,Identity,Fast Search Algoritim,B-Tree,Mini Printer Writer Code,Authentication,Spy
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Barcode system(Admin,Editor,Cassa,Api)
 
 https://github.com/NihadAxund/Barcode_System/assets/113647098/74de053d-5c8f-4826-a770-7256c6ce3ac0
