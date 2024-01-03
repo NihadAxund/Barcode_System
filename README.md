@@ -4,7 +4,9 @@ wpf,Asp.net Api,Sql,Swagger,Speeder tools,Dapper,EnitiyFreamWork,Multi Threading
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Barcode system(Admin,Editor,Cassa,Api)
-!https://github.com/NihadAxund/Barcode_System/assets/113647098/74de053d-5c8f-4826-a770-7256c6ce3ac0
+
+https://github.com/NihadAxund/Barcode_System/assets/113647098/74de053d-5c8f-4826-a770-7256c6ce3ac0
+
 ![_1373003a-40fa-414e-9018-47ff2edd0b3f](https://github.com/NihadAxund/Barcode_System/assets/113647098/5f08fd39-14e3-460f-8de9-607ab17ee61c)
 
 
