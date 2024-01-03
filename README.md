@@ -7,9 +7,6 @@ Barcode system(Admin,Editor,Cassa,Api)
 
 
 ![_1373003a-40fa-414e-9018-47ff2edd0b3f](https://github.com/NihadAxund/Barcode_System/assets/113647098/5f08fd39-14e3-460f-8de9-607ab17ee61c)
-Nihad
-https://github.com/NihadAxund/Barcode_System/assets/113647098/74de053d-5c8f-4826-a770-7256c6ce3ac0
-
 ![Barcode_Login](https://github.com/NihadAxund/Barcode_System/assets/113647098/d023dd70-d88b-40d2-bfa9-462ccd07a516)
 ![Barcode_Register_Page](https://github.com/NihadAxund/Barcode_System/assets/113647098/b12ff45e-dab1-4240-bb65-29303bab9292)
 ![Barcode_Cassa_Main](https://github.com/NihadAxund/Barcode_System/assets/113647098/49567be0-7d2f-4855-a194-debf78e3ba71)
@@ -19,5 +16,6 @@ https://github.com/NihadAxund/Barcode_System/assets/113647098/74de053d-5c8f-4826
 
 
 https://github.com/NihadAxund/Barcode_System/assets/113647098/6633e7b6-7274-487e-867f-b7568b08d513
+https://github.com/NihadAxund/Barcode_System/assets/113647098/74de053d-5c8f-4826-a770-7256c6ce3ac0
 
 Gmail: nihataxundzade06@gmail.com
