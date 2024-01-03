@@ -21,3 +21,4 @@ https://github.com/NihadAxund/Barcode_System/assets/113647098/6633e7b6-7274-487e
 
 
 Gmail: nihataxundzade06@gmail.com
+Linkedin: https://www.linkedin.com/in/nihad-axundzade-760296240/
