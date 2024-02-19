@@ -1,6 +1,6 @@
 # Barcode_System
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-wpf,Asp.net Api,Sql,Swagger,Speeder tools,Dapper,EnitiyFreamWork,Multi Threading,P-PDF,Barcode Reader,Barcode Writer,JWT,Identity,Fast Search Algoritim,B-Tree,Mini Printer Writer Code,Authentication,Spy
+ASP.NET API, WPFM, Sql,Swagger,Speeder tools,Dapper,EnitiyFreamWork,Multi Threading,P-PDF,Barcode Reader,Barcode Writer,JWT,Identity,Fast Search Algoritim,B-Tree,Mini Printer Writer Code,Authentication,Spy
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Barcode system(Admin,Editor,Cassa,Api)
