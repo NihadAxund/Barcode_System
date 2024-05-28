@@ -1,4 +1,5 @@
 # Barcode_System
+# Code is Private
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ASP.NET API, WPF, Sql,Swagger,Speeder tools,Dapper,EnitiyFreamWork,Multi Threading,P-PDF,Barcode Reader,Barcode Writer,JWT,Identity,Fast Search Algoritim,B-Tree,Mini Printer Writer Code,Authentication,Spy
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
